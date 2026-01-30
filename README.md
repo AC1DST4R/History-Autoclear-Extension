@@ -1,34 +1,52 @@
 # Install Instructions
-- Download entire repository as a .zip file 
 
-![Screenshot1]([image-url](https://raw.githubusercontent.com/AC1DST4R/Readmephotos/refs/heads/main/History%20Autoclear%20Extension/9.png))
+### 1. Download the Repository
+- Download the entire repository as a **.zip** file.
 
-- Save Folder somewhere safe
-- Desktop is naturally a good place to keep it
-- Keep everything in a local folder.
+![Screenshot 1](https://raw.githubusercontent.com/AC1DST4R/Readmephotos/refs/heads/main/History%20Autoclear%20Extension/9.png)
 
-![Screenshot2]([image-url](https://raw.githubusercontent.com/AC1DST4R/Readmephotos/refs/heads/main/History%20Autoclear%20Extension/3.png))
+---
 
-- Go to Extensions page
+### 2. Extract & Save the Folder
+- Extract the downloaded `.zip`
+- Save the folder somewhere safe  
+- **Desktop is recommended**
+- Keep all files together in one local folder
 
-![Screenshot3]([image-url](https://raw.githubusercontent.com/AC1DST4R/Readmephotos/refs/heads/main/History%20Autoclear%20Extension/5.png))
+![Screenshot 2](https://raw.githubusercontent.com/AC1DST4R/Readmephotos/refs/heads/main/History%20Autoclear%20Extension/3.png)
 
-- Or By
+---
 
-![Screenshot4]([image-url](https://raw.githubusercontent.com/AC1DST4R/Readmephotos/refs/heads/main/History%20Autoclear%20Extension/7.png))
+### 3. Open the Extensions Page
+- Go to your browser’s **Extensions** page
 
-- Click on the Gear / Settings Icon
+![Screenshot 3](https://raw.githubusercontent.com/AC1DST4R/Readmephotos/refs/heads/main/History%20Autoclear%20Extension/5.png)
 
-![Screenshot5]([image-url](https://raw.githubusercontent.com/AC1DST4R/Readmephotos/refs/heads/main/History%20Autoclear%20Extension/6.png))
+**Or navigate via:**
 
-- Click "debug addons" in the dropdown
+![Screenshot 4](https://raw.githubusercontent.com/AC1DST4R/Readmephotos/refs/heads/main/History%20Autoclear%20Extension/7.png)
 
-![Screenshot6]([image-url](https://raw.githubusercontent.com/AC1DST4R/Readmephotos/refs/heads/main/History%20Autoclear%20Extension/8.png))
+---
 
-- You should see "Temporary extensions" Click it
+### 4. Open Extension Settings
+- Click the **Gear / Settings** icon
 
-![Screenshot7]([image-url](https://raw.githubusercontent.com/AC1DST4R/Readmephotos/refs/heads/main/History%20Autoclear%20Extension/1.png))
+![Screenshot 5](https://raw.githubusercontent.com/AC1DST4R/Readmephotos/refs/heads/main/History%20Autoclear%20Extension/6.png)
 
-Import "manifest.json" from the file you downloaded
+---
 
-![Screenshot8]([image-url](https://raw.githubusercontent.com/AC1DST4R/Readmephotos/refs/heads/main/History%20Autoclear%20Extension/4.png))
+### 5. Enable Debug Mode
+- Click **"Debug Add-ons"** from the dropdown
+
+![Screenshot 6](https://raw.githubusercontent.com/AC1DST4R/Readmephotos/refs/heads/main/History%20Autoclear%20Extension/8.png)
+
+---
+
+### 6. Load the Extension
+- Under **Temporary Extensions**, click it
+
+![Screenshot 7](https://raw.githubusercontent.com/AC1DST4R/Readmephotos/refs/heads/main/History%20Autoclear%20Extension/1.png)
+
+- Import the `manifest.json` file from the folder you downloaded
+
+![Screenshot 8](https://raw.githubusercontent.com/AC1DST4R/Readmephotos/refs/heads/main/History%20Autoclear%20Extension/4.png)
