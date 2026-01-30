@@ -3,7 +3,7 @@
 ### 1. Download the Repository
 - Download the entire repository as a **.zip** file.
 
-![Screenshot 1](https://raw.githubusercontent.com/AC1DST4R/Readmephotos/refs/heads/main/History%20Autoclear%20Extension/9.png)
+![Screenshot 1](https://raw.githubusercontent.com/AC1DST4R/Readmephotos/refs/heads/main/History%20Autoclear%20Extension/3.png)
 
 ---
 
@@ -13,7 +13,7 @@
 - **Desktop is recommended**
 - Keep all files together in one local folder
 
-![Screenshot 2](https://raw.githubusercontent.com/AC1DST4R/Readmephotos/refs/heads/main/History%20Autoclear%20Extension/3.png)
+![Screenshot 2](https://raw.githubusercontent.com/AC1DST4R/Readmephotos/refs/heads/main/History%20Autoclear%20Extension/9.png)
 
 ---
 
